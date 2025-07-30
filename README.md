@@ -89,7 +89,7 @@ Typespace Bot | ChatGPT Free:
     </section>
     <section id="contacts">
       <h2>Контакты</h2>
-      <p>Для сотрудничества и консультаций пишите на <a href="mailto:info@agriculture.ru">info@agriculture.ru</a> или звоните по телефону +7 123 456 78 90.</p>
+      <p>Для сотрудничества и консультаций пишите на <a href="vit250504@gmail.ru">info@agriculture.ru</a> или звоните по телефону +79997444558.</p>
     </section>
   </main>
   <footer>
