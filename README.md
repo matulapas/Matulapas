@@ -112,7 +112,7 @@
           <p>Высококачественная пшеница и другие зерновые культуры, выращенные на лучших полях нашего региона.</p>
         </div>
         <div class="product-card">
-          <img src="https://example.com/images/sunflower.jpg" alt="Подсолнух" />
+          <img src="[https://example.com/images/sunflower](https://avatars.mds.yandex.net/i?id=24d6e7d12e70ec5dbe864dc2dfd7b317_l-7543982-images-thumbs&n=33&w=1080&h=1080).jpg" alt="Подсолнух" />
           <h3>Подсолнух</h3>
           <p>Отборный подсолнечник, идеальный для получения масла и здорового питания.</p>
         </div>
